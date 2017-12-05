@@ -25,7 +25,9 @@ footer, header, hgroup, menu, nav, section {
 }
 
 body {
-background: url(http://www.tokkoro.com/picsup/427351-anonymous-wallpaper-free-desktop-wallpapers.jpg) repeat-x;
+background: url(http://www.tokkoro.com/picsup/427351-anonymous-wallpaper-free-desktop-wallpapers.jpg);
+	background-size: cover;    
+	background-repeat: no-repeat;
 	line-height: 1;
     font-family: "Open Sans", Arial;
     font-size: 100%;
