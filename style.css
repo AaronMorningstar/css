@@ -113,10 +113,11 @@ table {
 }
 
 #circles {
-    top: 180px;   
+    top: 290px;   
     z-index: 900; 
     position: absolute;
     width: 100%;
+	background: #00000080;
 }
 
 .container {
@@ -145,7 +146,7 @@ table {
     border-radius: 50%;
     width: 160px;
     height: 160px;
-    background: #00b4ff;
+    background: #2a2d2f;
     margin: 0px auto;
     text-align: center;
     vertical-align: middle;
@@ -176,7 +177,7 @@ table {
 }
 
 #circles h3 {
-    font-size: 100%;
+    font-size: 120%;
     font-family: "Open Sans", Arial;
     font-style: italic;
     margin-top: 30px;
